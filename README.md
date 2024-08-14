@@ -7,8 +7,11 @@
 
 ## 环境要求
 Python                    3.11.8
+
 urllib3                   2.2.2
+
 selenium                  4.23.1
+
 pyinstaller               6.10.0
 
 可以直接用pip/conda进行安装对应版本的包。
