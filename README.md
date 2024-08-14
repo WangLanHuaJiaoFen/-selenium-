@@ -17,5 +17,7 @@ pyinstaller               6.10.0
   请参考[我的博客](https://wanglanhuajiaofen.fun/2024/03/24/selenium/)进行使用
 ## 结语
 如果这篇文章对你有帮助，欢迎star/fork(๑•̀ㅂ•́)و✧
+
 如果有其他需求或者发现bug，欢迎issue/prヽ(✿ﾟ▽ﾟ)ノ
+
 如果懒得动手，你可以在issue中给我问卷url和联系方式，我把可执行文件直接发给你♪(^∇^*)
